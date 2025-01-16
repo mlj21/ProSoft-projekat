@@ -1,2 +1,2 @@
 # ProSoft-projekat
-Klijent-server kreirana .NET tehonologijom
+Klijent-server aplikacija kreirana .NET tehonologijom
